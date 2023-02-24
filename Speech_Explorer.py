@@ -8,20 +8,20 @@ keyword = ""
 url = 'https://www.presidency.ucsb.edu/advanced-search?field-keywords=' + keyword +'&field-keywords2=&field-keywords3=&from%5Bdate%5D=&to%5Bdate%5D=&person2=&items_per_page=100'
 
 
-#Create lists to store information from page
+#Create lists to store information from the page
 date_list =[]
 speaker_list = []
 title_list = []
-
+speech_list = []
 #Use while loop to move through pages until there is no next page
 while  True:
     
-#Request the webpage
+    #Request the webpage
     res = requests.get(url)
-#Check the page was downloaded sucessfully
+    #Check the page was downloaded sucessfully
     res.raise_for_status()
     
-#Create a BeautifulSoup object
+    #Create a BeautifulSoup object
     soup = bs4.BeautifulSoup(res.text, 'html.parser')
 
     #Find the dates of the speeches linked in the page. This will also give the number of speeches on the page
@@ -36,6 +36,9 @@ while  True:
         date_list = date_list + [dates[i].getText().strip()]
         speaker_list = speaker_list + [speaker[i].getText().strip()]
         title_list = title_list + [title[i].getText().strip()]
+        #Find links for the texts of the speeches and add the links to the speech_list
+        speech_page = 'https://www.presidency.ucsb.edu' + title[i].get('href')
+        speech_list = speech_list + [speech_page]
     #Find the next page
     try:
         nextpage = soup.select('.next a')[0]
@@ -43,8 +46,9 @@ while  True:
         url = 'https://www.presidency.ucsb.edu' + nextpage.get('href')
     except:
         break
-
-df = pd.DataFrame({'Date' : date_list, 'Speaker' : speaker_list, 'Title' : title_list})
+    
+#Create a dataframe
+df = pd.DataFrame({'Date' : date_list, 'Speaker' : speaker_list, 'Title' : title_list, 'Link' : speech_list})
 
 #Write dataframe to csv
 df.to_csv('speeches.csv')
