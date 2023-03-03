@@ -1,0 +1,8 @@
+speeches
+*txt
+*.csv
+*.DS_Store
+__pycache__
+*.jsonl
+*.zip
+*.html
