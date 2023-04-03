@@ -1,1 +1,6 @@
 polars_speeches.csv
+
+*.zip
+*.csv
+*.txt
+speeches
