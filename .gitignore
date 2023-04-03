@@ -1,5 +1,6 @@
 polars_speeches.csv
 
+.DS_Store
 *.zip
 *.csv
 *.txt
