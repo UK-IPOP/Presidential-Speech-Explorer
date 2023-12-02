@@ -3,3 +3,4 @@
 *.zip
 polars_speeches.csv
 output.csv
+combined_speech_data.csv
