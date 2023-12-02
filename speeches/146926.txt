@@ -1,0 +1,6 @@
+ In a letter today addressed to House Speaker Nancy Pelosi, Majority Leader Chuck Schumer, House Minority Leader Kevin McCarthy, and Senate Minority Leader Mitch McConnell, the U.S. Conference of Mayors (USCM) called on Congress to finish up negotiations on the America COMPETES Act (HR 4521) and the U.S. Innovation and Competition Act (S 1260) to pass the Bipartisan Innovation Act (BIA). The letter, on behalf of mayors across America, stressed the importance of passing these bills to bring semiconductor manufacturing back to the U.S.
+The letter reads, in part, "Semiconductors play a unique role in our economic and national security, enabling advances in medical devices and health care, communications, computing, defense, transportation, clean energy, and technologies of the future such as artificial intelligence, quantum computing, and advanced wireless networks."
+It concludes, "Congress must work to include the bipartisan incentive of a fully funded CHIPS Act, along with support for STEM education and an investment tax credit in the final competitiveness legislation. Americans deserve access to economic opportunity and we urge Congress to come together to move this critical bipartisan package forward."
+A PDF of the letter can be found 
+, and the full text is below:
+Dear Speaker Pelosi, Leader Schumer, Leader McCarthy, and Leader McConnell:

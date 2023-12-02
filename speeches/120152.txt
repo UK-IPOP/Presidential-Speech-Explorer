@@ -1,0 +1,76 @@
+
+
+Today, the Administration is announcing a new "Smart Cities" Initiative that will invest over $160 million in federal research and leverage more than 25 new technology collaborations to help local communities tackle key challenges such as reducing traffic congestion, fighting crime, fostering economic growth, managing the effects of a changing climate, and improving the delivery of city services. The new initiative is part of this Administration's overall commitment to target federal resources to meet local needs and support community-led solutions.
+
+Over the past six years, the Administration has pursued a place-based approach to working with communities as they tackle a wide range of challenges, from investing in infrastructure and filling open technology jobs to bolstering community policing. Advances in science and technology have the potential to accelerate these efforts. An emerging community of civic leaders, data scientists, technologists, and companies are joining forces to build "Smart Cities" – communities that are building an infrastructure to continuously improve the collection, aggregation, and use of data to improve the life of their residents – by harnessing the growing data revolution, low-cost sensors, and research collaborations, and doing so securely to protect safety and privacy.
+
+
+
+Today, the Administration is also hosting a White House Smart Cities Forum, coinciding with Smart Cities Week hosted by the Smart Cities Council, to highlight new steps and brainstorm additional ways that science and technology can support municipal efforts.
+
+
+
+Complementing this effort, the President's Council of Advisors on Science and Technology is examining how a variety of technologies can enhance the future of cities and the quality of life for urban residents. The Networking and Information Technology Research and Development (NITRD) Program is also announcing the release of a 
+ to help coordinate Federal agency investments and outside collaborations that will guide foundational research and accelerate the transition into scalable and replicable Smart City approaches. Finally, the Administration's growing work in this area is reflected in the 
+, issued by the Office of Management and Budget and Office of Science and Technology Policy in preparation for the President's 2017 budget proposal, which includes a focus on cyber-physical systems and Smart Cities.
+
+
+
+
+
+
+ 
+With a new foundation-wide effort devoted to Smart and Connected Communities, NSF will bring academic researchers and community stakeholders together to unlock transformational progress on important challenges — including health and wellness, energy efficiency, building automation, transportation, and public safety — through research to integrate new digital tools and engineering solutions into the physical world. NSF announcements in support of this agenda include:
+
+
+Proposed FY16 investments will foster collaborations with communities and industry to demonstrate the capabilities of Internet of Things technologies to benefit local communities, while developing related performance standards and measurement tools. In addition, NIST is launching the next round of its Global City Teams Challenge (GCTC), using a new approach that will challenge teams of cities to set Smart City goals and then work with innovators to develop, deploy, and evaluate standards-based Smart City technologies that measurably improve residents' quality of life. The private sector is stepping up as well, including:
+
+
+
+
+Through the 
+, the DHS Science and Technology Directorate is developing and integrating innovative technologies to ensure first responders are protected, connected, and fully aware – helping to better prepare them for threats and disasters of all sizes. As part of this effort, DHS is also collaborating with NIST to leverage Smart Cities data, analytics, and predictive modeling to give responders the right information at the right time, increasing responder operational efficiency and safety.
+
+ 
+, building on a broad base of existing research and outreach to spur the development of next-generation transportation systems, including:
+
+
+that are leveraging Smart Cities technologies. These new steps include:
+
+
+. As part of the 2016 
+ (RIS) program, which helps build regional capacity to support entrepreneurs and growing young companies, EDA will conduct directed outreach to programs that support early-stage companies that use technologies to solve communities' most pressing problems, such as companies in the Smart Cities sector, which can have a significant positive impact on a community's or region's economic growth and resiliency. As part of the 2017 RIS Program, EDA plans, where appropriations allow, to include the i6 Impact Challenge and the Conscious Seed Fund Support (C-SFS) Grants program, which will support high-growth companies that solve these pressing problems to help make cities and communities smarter and more economically resilient.
+
+These new steps are designed to help communities undertake innovative sensor-based approaches to improve data collection and analysis of environmental condition and risk, including:
+
+
+. To help incubate new apps that are based on open data, including Smart Cities apps with broad civic benefits, Census is launching the following:
+
+
+
+
+
+
+Supported by a newly announced grant of $1 million from the John D. and Catherine T. MacArthur Foundation, the MetroLab Network will leverage university expertise to address challenges facing cities and regions across the country. The Network will provide a platform upon which established and emerging city-university relationships can share successful projects, coordinate multi-city, multi-university research efforts, and compete for research and project funding. The founding members have collectively committed to undertaking more than 60 projects over the next year, which will improve the efficiency and effectiveness of infrastructure and services in our cities and communities and increase the productivity and competitiveness of our regional economies. Communities and their university counterparts signing onto the network with a 
+ include:
+
+
+City leaders from 10 winning communities will participate in Envision America's workshop in January in Charlotte, NC, where they will work with leading experts from industry and academia to diagnose needs, workshop solutions, and develop new smart initiatives for their community. In addition, they will receive technical assistance throughout the year to support the implementation of their plans. Winners will be selected for participation in the Envision America program on the basis of several criteria, including goals, collaborations among local institutions and other stakeholders, and commitment to developing innovative approaches foundational to a Smart City. This effort builds on the cross-sector collaborative model and local results of Envision Charlotte. The new effort is supported by Accelerated Innovations, Autodesk, Bank of America, Cisco, Duke Energy, GE, Itron, Landis+Gyr, Microsoft, and Qualcomm Technologies, Inc. Complementing the Envision America Challenge, supporters are also taking the following steps:
+
+
+
+
+focused on major urban infrastructure challenges. These projects, using Chicago as a testbed for technology and demonstration, focus on deploying a network of sensors to gather data on green infrastructure, and a virtual underground mapping platform to detect and monitor underground infrastructure. The inaugural pilots bring together the city, academia as well as corporate members of the City Digital UI Labs collaboration – Microsoft, Accenture, ComEd, Siemens, Tyco and HBK Engineering.
+
+ Initial efforts will center in downtown's West End district and focus on infrastructure, mobility and connected living. Led by the Dallas Entrepreneur Center, charter members include Mayor Mike Rawlings, AECOM, AT&T, IBM, Microsoft, Schneider Electric, Dallas Regional Chamber, Dallas Area Rapid Transit, Dallas Convention and Visitor's Bureau, Downtown Dallas Inc., Texas Research Alliance, and The Real Estate Council.
+
+to help the city and the Detroit Land Bank Authority (DLBA) remove blight and build smarter Detroit neighborhoods. Through this initiative, a team of top IBM experts will spend three weeks helping Mayor Mike Duggan and the DLBA design a strategy for cost-efficient, sustainable removal, recycling and re-use of debris from abandoned and neglected properties, thereby allowing the DLBA to redirect its limited resources to making strategic investments in neighborhoods. The project will also receive a special grant of Twitter data, which will provide analysis of historical and current social media data to help tackle the issue.
+
+to support the efforts of civic innovators tackling community challenges
+The two winners – selected from 10 tech company finalists and voted on by over 20 cities around the country – are Bluelight, a mobile 911 app, and Ride, a tool that helps cities collect and analyze bike data. The winning companies have each agreed to undertake a four-city pilot, which will begin in early 2016.
+
+The new labs will accelerate the testing and deployment of new Smart City technologies. Developed by the City's Chief Technology Officer, the Mayor's Office of Technology and Innovation, the NYU Center for Urban Science and Progress (CUSP), and New York City Economic Development Corporation, the neighborhood innovation labs will build on the CUSP Quantified Community research facility and the Mayor's efforts to expand free public Wi-Fi networks across the city, leveraging this connectivity and the Internet of Things to help improve day-to-day life for community residents and small businesses.
+
+an effort launched earlier this year by mayors of 17 international cities across nine nations. By making the Siemens' City Performance Tool available to CNCA, alliance members will be able to leverage the software model to evaluate how specific building, transport, and energy technologies can help them achieve their environmental goals.
+
+The San Francisco 49ers, Santa Clara Valley Transportation Authority (VTA), City of Santa Clara, Santa Clara Police Department, Arini Geographics, and Allied Telesis are announcing a new collaboration to create a smarter, safer Levi's Stadium and a smarter, safer public transit system in advance of Super Bowl 50. For the first time, law enforcement, NFL security, transit authority, and city leaders will have access to the same real-time security data in a consolidated visual platform.

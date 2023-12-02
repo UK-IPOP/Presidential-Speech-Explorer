@@ -1,0 +1,13 @@
+TO: Corporate Executives and Business Leaders
+FROM: Anne Neuberger, Deputy Assistant to the President and Deputy National Security Advisor for Cyber and Emerging Technology and Chris Inglis, National Cyber Director
+SUBJECT: Protecting Against Malicious Cyber Activity before the Holidays
+DATE: December 16, 2021
+The holidays are an opportunity to spend time with our loved ones and enjoy some well-earned rest. Unfortunately, malicious cyber actors are not taking a holiday – and they can ruin ours if we're not prepared and protected. Historically we have seen breaches around national holidays because criminals know that security operations centers are often short-staffed, delaying the discovery of intrusions. Beyond the holidays, though, we've experienced numerous recent events that highlight the strategic risks we all face because of the fragility of digital infrastructure and the ever- present threat of those who would use it for malicious purposes.
+Below are some recommendations for actions you can take immediately to have an incident-free holiday season.
+In many cases criminals plan 
+an intrusion before the holiday itself – they infiltrate a network and lie in wait for the optimal time to launch an attack. It is therefore essential that you convene your leadership team now to make your organization a harder target for criminals.
+Please encourage your IT and Security leadership to visit the websites of 
+ and the 
+ where they will find technical information and other useful resources.
+All of us can, and must, play a part to improve the Nation's cybersecurity. The U.S. government and the private sector have accomplished much together in the past year, and we have much more to do in 2022 and beyond.
+Please accept our best wishes for a happy holiday season and a safe and secure New Year.

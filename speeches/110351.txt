@@ -1,0 +1,64 @@
+The Obama Administration unveiled a "Consumer Privacy Bill of Rights" as part of a comprehensive blueprint to protect individual privacy rights and give users more control over how their information is handled. This initiative seeks to protect all Americans from having their information misused by giving users new legal and technical tools to safeguard their privacy. The blueprint will guide efforts to protect privacy and assure continued innovation in the Internet economy by providing flexible implementation mechanisms to ensure privacy rules keep up with ever-changing technologies. As a world leader in the Internet marketplace, the Administration believes the United States has a special responsibility to develop privacy practices that meet global standards and establish effective online consumer protection.
+
+•      
+ The Commerce Department's National Telecommunications and Information Administration (NTIA) will soon convene Internet companies and consumer advocates to develop enforceable codes of conduct that comply with the Consumer Privacy Bill of Rights, building on strong enforcement by the Federal Trade Commission. The Administration will also work with Congress to enact comprehensive privacy legislation based on the rights outlined here.
+
+•      
+ U.S. companies doing business on the global Internet depend on the free flow of information across borders. The Administration's plan lays the groundwork for increasing interoperability between the U.S. data privacy framework and those of our trading partners.
+
+•      
+ In response to calls from the Administration and the Federal Trade Commission (FTC), leading Internet companies and online advertising networks are committing to use Do Not Track technology from the World Wide Web Consortium in most major web browsers to make it easier for users to control online tracking. Companies that represent the delivery of nearly 90 percent of online behavioral advertisements, including Google, Yahoo!, Microsoft, and AOL have made this FTC-enforceable commitment.
+
+
+
+
+The President will assure strong individual privacy protection in the Internet age with the following actions:
+
+•      
+American Internet users should have the right to control personal information about themselves. Based on globally accepted privacy principles originally developed in the United States, the Consumer Privacy Bill of Rights is a comprehensive statement of the rights consumers should expect and the obligations to which companies handling personal data should commit. These rights include the right to control how personal data is used, the right to avoid having information collected in one context and then used for an unrelated purpose, the right to have information held securely, and the right to know who is accountable for the use or misuse of an individual's personal data.
+
+The Administration's report, issued today, explains the Consumer Privacy Bill of Rights. The Consumer Privacy Bill of Rights and the related privacy policy framework have been developed over the last two years through extensive consultation with industry, advocates, academics and enforcement agencies.
+
+•      
+ The Commerce Department's NTIA will convene stakeholders including industry and privacy advocates to develop enforceable codes of conduct that implement the principles in the Consumer Privacy Bill of Rights for specific industry sectors. The President's privacy framework assures that as new Internet services develop privacy rules will keep up with, and not hamper, the pace of innovation. This framework takes advantage of the flexibility of self-regulatory processes but assures that new codes of conduct are guided by a comprehensive, forward-looking set of privacy principles and that all interested parties such as consumer advocates have a voice in the process.
+
+•      
+ FTC enforcement is critical to ensuring that companies are accountable for adhering to their privacy commitments and that bad actors do not disadvantage responsible companies. The Administration expects that a company's public commitment to adhere to a code of conduct will be enforceable under existing FTC authority, just as a company is bound today to follow its privacy commitments. In addition, the Administration will work with Congress to develop legislation that provides the FTC and State Attorneys General with specific authority to enforce the Consumer Privacy Bill of Rights.
+
+•      
+ Relying on flexible implementation through enforceable codes of conduct, the Administration's privacy blueprint will help assure continued growth in the Internet economy, both by building consumer trust and avoiding burden. Online retail sales in the United States total $145 billion annually.[1] The Internet contributed 3.8 percent of U.S. GDP in 2009, and 15 percent of U.S. GDP growth between 2004 and 2009.[2] The Internet contributes $175 billion in direct economic value to the rest of the U.S. economy, including $20 billion in advertising services, $85 billion in online retail transactions, and $70 billion in direct payments to Internet service providers.[3]
+
+•      
+The Consumer Privacy Bill of Rights outlines the basic principles the Administration believes should be reflected in a privacy law and will work with Congress to enact these rights. In addition to proposing these clear and actionable rights, the Administration's privacy report outlines an a way for companies to be confident that they are respecting these rights through an FTC-approved enforcement safe harbor. This approach will protect consumers while providing the certainty and flexibility necessary for continuing innovation.
+
+•      
+ U.S. companies doing business on the global Internet depend on the free flow of information across borders. The Administration's plan lays the groundwork for increasing interoperability between the U.S. data privacy framework and those of our trading partners. The plan emphasizes mutual recognition of privacy frameworks, an international role for codes of conduct, and enforcement cooperation. These approaches will provide consistent protections for consumers, reduce compliance costs for companies, guide U.S. efforts to clarify data protections globally, and ensure the flexibility that is critical to innovation in the commercial world.
+
+
+
+The President's initiatives for Internet privacy build on successful, transparent engagement with privacy stakeholders in the commercial and advocacy communities, coordinated by a privacy subcommittee of the National Science and Technology Council with cross-Administration participation.
+
+•      
+In May 2011, the President released his International Strategy for Cyberspace, which has influenced new international agreements, such as the Organization for Economic Cooperation and Development's (OECD) Internet Policymaking Principles.
+
+•      
+The President has nominated a full slate of members of the independent privacy body that will provide guidance and oversight of government use of personal information in the counter-terrorism and law enforcement context.
+
+
+
+
+The Consumer Privacy Bill of Rights applies to 
+, which means any data, including aggregations of data, that is linkable to a specific individual. Personal data may include data that is linked to a specific computer or other device. The Administration supports Federal legislation that adopts the principles of the Consumer Privacy Bill of Rights. Even without legislation, the Administration will convene multistakeholder processes that use these rights as a template for codes of conduct that are enforceable by the Federal Trade Commission. These elements—the Consumer Privacy Bill of Rights, codes of conduct, and strong enforcement—will increase interoperability between the U.S. consumer data privacy framework and those of our international partners.
+
+
+1 U.S. Census Bureau, 
+, May 26, 2011, 
+, at 1.
+
+2 McKinsey Global Institute, 
+, May 2011, 
+ at 15-16.
+
+3 Hamilton Consultants (commissioned by the Interactive Advertising Bureau), 
+, June 10, 2009, 
+.

@@ -1,6 +1,5 @@
 
 .DS_Store
 *.zip
-*.csv
-*.txt
-speeches
+polars_speeches.csv
+output.csv

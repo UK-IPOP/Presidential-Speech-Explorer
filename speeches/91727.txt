@@ -1,0 +1,22 @@
+ GOV. MITT ROMNEY: "The key to effective homeland security, in my view, is intelligence, finding the attackers before they attack, gathering and analyzing tips, monitoring suspects, wiretapping, surveillance, all of the tools associated with intelligence work. It's aided measurably by the Patriot Act, perhaps our most effective new tool. It is also dependent on effective delineations of responsibilities between and among federal agencies, across federal and state lines and state and local lines." (Gov. Mitt Romney, Remarks At The National Press Club, Washington, D.C., 7/14/04)
+ PRESIDENT GEORGE W. BUSH: "The Protect America Act, passed with bipartisan support in the House and Senate, achieves both of these goals by modernizing the Foreign Intelligence Surveillance Act. ... S.1927 reforms FISA by accounting for changes in technology and restoring the statute to its original focus on appropriate protections for the rights of persons in the United States – and not foreign targets located in foreign lands." (President George W. Bush, Statement By The President, 8/5/07)
+ "However, as a result of revolutions in telecommunications technology since FISA was passed, FISA now often requires the Government to get a court order to collect information on terrorists and other foreign intelligence targets located overseas. It makes no sense to require the Government to obtain a court order to collect 
+ intelligence on 
+ targets located in 
+ countries. This requirement impairs our intelligence capabilities, and diverts scarce resources that would be better spent safeguarding the civil liberties of Americans, not foreigners who wish to do us harm." (The White House, "Fact Sheet On FISA Modernization," 8/3/07)
+ "The legislation's authors, instead of focusing on just the target of communication, regulated according to its type: radio or wire. As technology advanced from radio to wire, the very foreign communications Congress took pains to exclude from FISA's purview were swept into it." (Editorial, "FISA Fumbles," 
+, 8/6/07)
+ (S. 1927, CQ Vote #309: Passed 60-28: R 43-0; D 16-27; I 1-1, 8/3/07, Clinton And Obama Voted Nay)
+ "But that was it when it came to any sort of tense back and forth. By and large Clinton drew praise and applause for her votes -- especially the one she cast against the FISA court last evening. Iraq, surprisingly, was not mentioned by any of the questioners." (Chris Cillizza, "Clinton's Tame Session With The Netroots," 
+ "The Fix" Blog, blog.washingtonpost.com, Posted 8/4/07)
+. OBAMA: "That means no more illegal wiretapping of American citizens . . . no more ignoring the law when it is inconvenient. 
+" (Sen. Barack Obama, Remarks At The Woodrow Wilson Center On Terrorism, Washington, DC, 8/1/07)
+ (S. 1927, CQ Vote #836: Passed 227-183: R 186-2; D 41-181, 8/4/07, Pelosi Voted Nay)
+ (Carl Hulse and Edmund L. Andrews, "House Approves Changes To Surveillance Program," 
+, 8/5/07)
+ (Editorial, "Reform FISA Now," 
+, 8/2/07)
+ "[The] bill does not address the fundamental conceptual flaws of the FISA regime, and, although it allows the NSA to intercept foreign-to-foreign calls, it does so only for now, requiring a review after six months." (Editorial, "FISA Fumbles," 
+, 8/6/07)
+ "Foreign-to-foreign communications now travel in diffuse packets of digital data through sophisticated networks, which route them not via the shortest route but via the least-congested terminals. Because American networks are the system's best, a Peshawar-to-Kabul phone call or e-mail may pass through the United States. This should be a coup for U.S. intelligence. Instead, because of FISA, it has become an obstacle. According to a ruling disclosed by House minority leader John Boehner, the FISA court has suggested that, absent judicial authorization, the NSA may not monitor even a foreign-to-foreign communication if it has passed through U.S. networks." (Editorial, "FISA Fumbles," 
+, 8/6/07)

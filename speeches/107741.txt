@@ -1,0 +1,8 @@
+ 
+: Newt stops in Independence, Walford, and Davenport
+: Newt stops in Ames, Marshalltown, and Waterloo
+: Newt stops in Council Bluffs and Atlantic
+: Newt stops in Des Moines, Creston, and Shenandoah
+: Newt stops in Sioux City, Winterset, Storm Lake, Denison and Carroll
+: Newt stops in Mason City, Algona, Spencer, and Le Mars
+: Newt stops in Dubuque, Dyersville, and Decorah
