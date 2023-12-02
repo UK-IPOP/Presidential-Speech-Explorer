@@ -1,5 +1,19 @@
 # Presidency Project
 
+
+To get the merged table, just run:
+
+```python
+python3 combine_speeches.py
+```
+
+(you'll need to git clone the repo)
+
+```bash
+git clone https://github.com/UK-IPOP/Presidential-Speech-Explorer
+```
+
+
 This project is here to work on presidency data.
 
 Due to the size of the data most of it will be shared with the research team via Microsoft OneDrive. However I may add an "analytical" dataset of a compressed file here.
